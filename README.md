@@ -1,4 +1,4 @@
 # Data_Homework
 ### Data_Homework_w1 :
-time : 2020-5-4
-file type : *.ipynb
+Commit Time : 2020-5-4  
+File Type : homework_w1.ipynb
